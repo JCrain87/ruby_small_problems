@@ -1,0 +1,1 @@
+for number in 1..99 do puts number if number.odd? end
